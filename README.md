@@ -1,15 +1,7 @@
 # Positional-Signal-Processing
 
 ## Description of the project
-Labeled data were collected from sensors which were in smartwatches. There were three types of sensors included, accelerometer, gyroscope and heart rate sensor. The frequency of accelerometer and gyroscope is 10Hz and the heart rate sensor's is 1Hz.
-
-Given a labeled dataset, whose data is multivariate timeseries sampled from sensors included in a smart watch and the labels are the type of the activity the user does, we are asked to create an automated methodto classify each activity by the sensors readings.
-
-The main goal of the project is to create an automated method in order to classify each activity according to the sensors' readings.
-
-
-
-
+Labeled data were collected from sensors which were in smartwatches. There were three types of sensors included, accelerometer, gyroscope and heart rate sensor. The frequency of accelerometer and gyroscope is 10Hz and the heart rate sensor's is 1Hz. We modeled the data of the sensors as multivariate timeseries and each reading is considered as a random variable. Example array((sample 0), (sample 1)...,(sample n)), and sample i = (random varable 1, random varable 2, ..., random variable k) where n is the total number of samples and k is the total namber of sensors readings in each sample. Every multivariate timeseries is labeled, based on user's activity. The main goal of the project is to create an automated method in order to classify each activity according to the sensors' readings.
 
 ## Libraries
 1. [Numpy](https://numpy.org/): The fundamental package for scientific computing with Python programming language.
