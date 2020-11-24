@@ -5,9 +5,9 @@ Given a labeled dataset, whose data is multivariate timeseries sampled from sens
 
 ## Libraries
 1. [Numpy](https://numpy.org/): The fundamental package for scientific computing with Python programming language.
-2. Pandas: Data analysis and manipulation tool built on top of the Python programming language.
-3. Sklearn: Tools for predictive data analysis, built on NumPy, SciPy, and matplotlib.
-4. Seglearn: Flexible approach to multivariate time series and contextual data for classification, regression, and forecasting problems.
-5. Matplotlib: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+2. [Pandas](https://pandas.pydata.org/): Data analysis and manipulation tool built on top of the Python programming language.
+3. [Sklearn](https://scikit-learn.org/stable): Tools for predictive data analysis, built on NumPy, SciPy, and matplotlib.
+4. [Seglearn](https://dmbee.github.io/seglearn/): Flexible approach to multivariate time series and contextual data for classification, regression, and forecasting problems.
+5. [Matplotlib](https://matplotlib.org/): Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 
