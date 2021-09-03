@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.3)  3 SEP 2021 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.3)  3 SEP 2021 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -391,7 +391,7 @@ e
 )) (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
-<logo.png, id=12, 464.73625pt x 435.6275pt>
+<logo.png, id=16, 464.73625pt x 435.6275pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 48.
@@ -522,7 +522,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 76.
-<Data.png, id=31, 730.73pt x 156.585pt>
+<Data.png, id=36, 730.73pt x 156.585pt>
 File: Data.png Graphic file (type png)
 <use Data.png>
 Package pdftex.def Info: Data.png  used on input line 80.
@@ -533,37 +533,111 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
+
+LaTeX Warning: Command \textTau invalid in math mode on input line 86.
+
 [2 <./Data.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textAlpha' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textupsilon' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 88.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textomicron'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 88.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textalpha'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textsigma' on input line 88.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 88.
+
+(./report.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
 (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 08AD3E4790342697AF043EC735AC6FE3;75.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+(rerunfilecheck)             Checksum: 40105400617B34D816A593A97EA7487D;120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 8342 strings out of 492982
- 132666 string characters out of 6134897
- 213248 words of memory out of 5000000
- 11795 multiletter control sequences out of 15000+600000
- 12150 words of font info for 33 fonts, out of 8000000 for 9000
+ 8362 strings out of 492982
+ 132924 string characters out of 6134897
+ 215279 words of memory out of 5000000
+ 11808 multiletter control sequences out of 15000+600000
+ 12804 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,39p,1933b,646s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/cbfonts/grmn1728.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/cbfonts/grxn1200.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/cbfonts/grxn1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/cbfonts/grxn2074.pfb>
-Output written on report.pdf (4 pages, 211453 bytes).
+ 36i,6n,39p,2323b,646s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
+bfonts/grmn1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/g
+rmn1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1200.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1728.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn2074.pfb>
+Output written on report.pdf (4 pages, 269186 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 27 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 35 words of extra memory for PDF output out of 10000 (max. 10000000)
 
