@@ -1,7 +1,17 @@
 \begin{thebibliography}{1}
 
+\bibitem{reback2020pandas}
+T.~pandas~development team, ``pandas-dev/pandas: Pandas,'' Feb. 2020.
+
 \bibitem{arXiv:1803.08118}
 C.~W. David~Burns, ``Seglearn: A python package for learning sequences and time
   series,'' {\em arXiv}, 2018.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``Scikit-learn:
+  Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
 
 \end{thebibliography}

@@ -6,7 +6,11 @@
 \babel@toc {greek}{}
 \babel@toc {greek}{}
 \contentsline {section}{\numberline {1}\IeC {\textEpsilon }\IeC {\textiota }\IeC {\textsigma }\IeC {\textalpha }\IeC {\textgamma }\IeC {\textomega }\IeC {\textgamma }\IeC {\'\texteta }}{2}{section.1}
+\babel@toc {english}{}
+\babel@toc {greek}{}
 \contentsline {section}{\numberline {2}\IeC {\textSigma }\IeC {\textupsilon }\IeC {\textlambda }\IeC {\textlambda }\IeC {\textomicron }\IeC {\textgamma }\IeC {\'\texteta } \IeC {\textDelta }\IeC {\textepsilon }\IeC {\textdelta }\IeC {\textomicron }\IeC {\textmu }\IeC {\'\textepsilon }\IeC {\textnu }\IeC {\textomega }\IeC {\textnu }}{2}{section.2}
+\babel@toc {english}{}
+\babel@toc {greek}{}
 \babel@toc {english}{}
 \babel@toc {greek}{}
 \babel@toc {english}{}
@@ -36,4 +40,15 @@
 \babel@toc {greek}{}
 \babel@toc {english}{}
 \babel@toc {greek}{}
+\contentsline {section}{\numberline {4}\IeC {\textEpsilon }\IeC {\textxi }\IeC {\textalpha }\IeC {\textgamma }\IeC {\textomega }\IeC {\textgamma }\IeC {\'\texteta } \IeC {\textChi }\IeC {\textalpha }\IeC {\textrho }\IeC {\textalpha }\IeC {\textkappa }\IeC {\texttau }\IeC {\texteta }\IeC {\textrho }\IeC {\textiota }\IeC {\textsigma }\IeC {\texttau }\IeC {\textiota }\IeC {\textkappa }\IeC {\'\textomega }\IeC {\textnu }}{4}{section.4}
+\contentsline {section}{\numberline {5}\IeC {\textPi }\IeC {\textrho }\IeC {\textomicron }-\IeC {\textepsilon }\IeC {\textpi }\IeC {\textepsilon }\IeC {\textxi }\IeC {\textepsilon }\IeC {\textrho }\IeC {\textgamma }\IeC {\textalpha }\IeC {\textsigma }\IeC {\'\textiota }\IeC {\textalpha } \IeC {\textChi }\IeC {\textalpha }\IeC {\textrho }\IeC {\textalpha }\IeC {\textkappa }\IeC {\texttau }\IeC {\texteta }\IeC {\textrho }\IeC {\textiota }\IeC {\textsigma }\IeC {\texttau }\IeC {\textiota }\IeC {\textkappa }\IeC {\'\textomega }\IeC {\textnu }}{4}{section.5}
+\babel@toc {english}{}
+\babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {greek}{}
+\contentsline {section}{\numberline {6}\IeC {\textTau }\IeC {\textomicron } \IeC {\textmu }\IeC {\textomicron }\IeC {\textnu }\IeC {\texttau }\IeC {\'\textepsilon }\IeC {\textlambda }\IeC {\textomicron }}{5}{section.6}
 \babel@toc {english}{}
