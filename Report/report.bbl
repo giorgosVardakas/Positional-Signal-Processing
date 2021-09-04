@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{arXiv:1802.01489}
+M.~H. C. W. P. H. S.~M. David~Burns, Nathan~Leung, ``Shoulder physiotherapy
+  exercise recognition: Machine learning the inertial signals from a
+  smartwatch,'' {\em arXiv}, 2018.
+
 \bibitem{reback2020pandas}
 T.~pandas~development team, ``pandas-dev/pandas: Pandas,'' Feb. 2020.
 

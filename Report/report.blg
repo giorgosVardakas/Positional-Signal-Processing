@@ -5,45 +5,51 @@ The style file: ieeetr.bst
 Database file #1: Bibliography.bib
 Warning--entry type for "reback2020pandas" isn't style-file defined
 --line 29 of file Bibliography.bib
-You've used 3 entries,
+Too many commas in name 1 of "David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Patrick Henry, Stewart McLachlin" for entry arXiv:1802.01489
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Patrick Henry, Stewart McLachlin" for entry arXiv:1802.01489
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Patrick Henry, Stewart McLachlin" for entry arXiv:1802.01489
+while executing---line 969 of file ieeetr.bst
+You've used 4 entries,
             1876 wiz_defined-function locations,
-            495 strings with 4050 characters,
-and the built_in function-call counts, 823 in all, are:
-= -- 63
-> -- 58
+            499 strings with 4271 characters,
+and the built_in function-call counts, 954 in all, are:
+= -- 74
+> -- 62
 < -- 0
-+ -- 21
-- -- 18
-* -- 67
-:= -- 137
-add.period$ -- 3
-call.type$ -- 3
-change.case$ -- 3
++ -- 23
+- -- 19
+* -- 74
+:= -- 159
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 32
-empty$ -- 69
-format.name$ -- 18
-if$ -- 183
+cite$ -- 4
+duplicate$ -- 41
+empty$ -- 86
+format.name$ -- 19
+if$ -- 214
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 2
-newline$ -- 12
-num.names$ -- 3
-pop$ -- 13
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 15
+num.names$ -- 4
+pop$ -- 17
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 22
+skip$ -- 23
 stack$ -- 0
 substring$ -- 40
-swap$ -- 12
+swap$ -- 13
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 6
-width$ -- 4
-write$ -- 27
-(There was 1 warning)
+while$ -- 7
+width$ -- 5
+write$ -- 35
+(There were 3 error messages)
