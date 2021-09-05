@@ -23,4 +23,9 @@ F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
 C.~M. Bishop, ``Pattern recognition,'' {\em Machine learning}, vol.~128, no.~9,
   2006.
 
+\bibitem{wold1987principal}
+S.~Wold, K.~Esbensen, and P.~Geladi, ``Principal component analysis,'' {\em
+  Chemometrics and intelligent laboratory systems}, vol.~2, no.~1-3,
+  pp.~37--52, 1987.
+
 \end{thebibliography}
