@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.3)  4 SEP 2021 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.3)  5 SEP 2021 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,7 +502,14 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
+))) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks34
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
@@ -522,7 +529,7 @@ tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \arrowsize=\dimen164
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 31.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 (./report.aux
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 20.
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
@@ -530,25 +537,25 @@ File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 ))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 33.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -634,7 +641,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring ON on input line 33.
+Package hyperref Info: Link coloring ON on input line 36.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -642,9 +649,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 (./report.out) (./report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
@@ -656,12 +663,12 @@ LaTeX Info: Redefining \nameref on input line 33.
 \scratchbox=\box40
 \nofMPsegments=\count128
 \nofMParguments=\count129
-\everyMPshowfont=\toks34
+\everyMPshowfont=\toks35
 \MPscratchCnt=\count130
 \MPscratchDim=\dimen166
 \MPnumerator=\count131
 \makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks35
+\everyMPtoPDFconversion=\toks36
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -680,10 +687,10 @@ e
 ex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
-<logo.png, id=39, 464.73625pt x 435.6275pt>
+<logo.png, id=43, 464.73625pt x 435.6275pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 54.
+Package pdftex.def Info: logo.png  used on input line 57.
 (pdftex.def)             Requested size: 195.0pt x 182.78282pt.
 [1
 
@@ -696,69 +703,31 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \newpage
+l.75 \newpage
               [1]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textEpsilon' on input line 75.
+(hyperref)                removing `\textEpsilon' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 75.
+(hyperref)                removing `\textiota' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 75.
+(hyperref)                removing `\textsigma' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 75.
+(hyperref)                removing `\textalpha' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 75.
+(hyperref)                removing `\textgamma' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomega' on input line 75.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 75.
-
-
-Package hyperref Warning: Composite letter `\textacute+\texteta'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 75.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 75.
-
-
-Overfull \hbox (0.46642pt too wide) in paragraph at lines 76--77
-\LGR/cmr/bx/n/12 PA-RA-KO-LOU-JH-SHS THS FU-SIO-LO-GI-KHS DIA-BIW-SHS
- []
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textSigma' on input line 78.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textupsilon' on input line 78.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textlambda' on input line 78.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textlambda' on input line 78.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 78.
+(hyperref)                removing `\textomega' on input line 78.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -774,182 +743,127 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\texteta' on input line 78.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textDelta' on input line 78.
+Overfull \hbox (0.46642pt too wide) in paragraph at lines 79--80
+\LGR/cmr/bx/n/12 PA-RA-KO-LOU-JH-SHS THS FU-SIO-LO-GI-KHS DIA-BIW-SHS
+ []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 78.
+(hyperref)                removing `\textSigma' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textdelta' on input line 78.
+(hyperref)                removing `\textupsilon' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 78.
+(hyperref)                removing `\textlambda' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textlambda' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textgamma' on input line 81.
+
+
+Package hyperref Warning: Composite letter `\textacute+\texteta'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textDelta' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textdelta' on input line 81.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 81.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textepsilon'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 78.
+(hyperref)                removing `\textacute' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 78.
+(hyperref)                removing `\textepsilon' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textnu' on input line 78.
+(hyperref)                removing `\textnu' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomega' on input line 78.
+(hyperref)                removing `\textomega' on input line 81.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textnu' on input line 78.
+(hyperref)                removing `\textnu' on input line 81.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 79.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
-<Data.png, id=65, 730.73pt x 156.585pt>
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Data.png, id=70, 730.73pt x 156.585pt>
 File: Data.png Graphic file (type png)
 <use Data.png>
-Package pdftex.def Info: Data.png  used on input line 83.
+Package pdftex.def Info: Data.png  used on input line 86.
 (pdftex.def)             Requested size: 389.9945pt x 148.00465pt.
 [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 89.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
 
-LaTeX Warning: Command \textTau invalid in math mode on input line 89.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textAlpha' on input line 91.
+LaTeX Warning: Command \textTau invalid in math mode on input line 92.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textupsilon' on input line 91.
+(hyperref)                removing `\textAlpha' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 91.
+(hyperref)                removing `\textupsilon' on input line 94.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 94.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textomicron'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 91.
-
-
-Package hyperref Warning: Composite letter `\textacute+\textalpha'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 91.
-
-[3 <./Data.png>]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textEpsilon' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textxi' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomega' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 94.
-
-
-Package hyperref Warning: Composite letter `\textacute+\texteta'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textacute' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textChi' on input line 94.
+(hyperref)                removing `\textomicron' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textalpha' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 94.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textkappa' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -961,11 +875,28 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 94.
+(hyperref)                removing `\textalpha' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 94.
+(hyperref)                removing `\texttau' on input line 94.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textalpha'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 94.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 94.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 94.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -973,163 +904,154 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 94.
+(hyperref)                removing `\texteta' on input line 94.
+
+[3 <./Data.png>]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textEpsilon' on input line 97.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 94.
+(hyperref)                removing `\textxi' on input line 97.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textkappa' on input line 94.
+(hyperref)                removing `\textalpha' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textgamma' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomega' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textgamma' on input line 97.
+
+
+Package hyperref Warning: Composite letter `\textacute+\texteta'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textChi' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textkappa' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textsigma' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 97.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textkappa' on input line 97.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textomega'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 94.
+(hyperref)                removing `\textacute' on input line 97.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomega' on input line 94.
+(hyperref)                removing `\textomega' on input line 97.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textnu' on input line 94.
+(hyperref)                removing `\textnu' on input line 97.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textPi' on input line 133.
+(hyperref)                removing `\textPi' on input line 136.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 133.
+(hyperref)                removing `\textrho' on input line 136.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textpi' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textxi' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 133.
-
-
-Package hyperref Warning: Composite letter `\textacute+\textiota'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textChi' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textkappa' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textrho' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textkappa' on input line 133.
-
-
-Package hyperref Warning: Composite letter `\textacute+\textomega'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomega' on input line 133.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textnu' on input line 133.
-
-[4]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textMu' on input line 136.
+(hyperref)                removing `\textomicron' on input line 136.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textepsilon' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textpi' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textxi' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textgamma' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textsigma' on input line 136.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textiota'
@@ -1139,6 +1061,67 @@ Package hyperref Warning: Composite letter `\textacute+\textiota'
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textiota' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textChi' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textkappa' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textsigma' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textkappa' on input line 136.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textomega'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 136.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -1146,181 +1129,347 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 136.
+(hyperref)                removing `\textnu' on input line 136.
+
+[4]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textMu' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 136.
+(hyperref)                removing `\textepsilon' on input line 139.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textiota'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 136.
+(hyperref)                removing `\textiota' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 136.
+(hyperref)                removing `\textomega' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textvarsigma' on input line 136.
+(hyperref)                removing `\textsigma' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textdelta' on input line 136.
+(hyperref)                removing `\texteta' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 136.
+(hyperref)                removing `\texttau' on input line 139.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 139.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textvarsigma' on input line 139.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textdelta' on input line 139.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 139.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textalpha'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 136.
+(hyperref)                removing `\textacute' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 136.
+(hyperref)                removing `\textalpha' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 136.
+(hyperref)                removing `\textsigma' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 136.
+(hyperref)                removing `\texttau' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 136.
+(hyperref)                removing `\textalpha' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 136.
+(hyperref)                removing `\textsigma' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 136.
+(hyperref)                removing `\texteta' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textvarsigma' on input line 136.
+(hyperref)                removing `\textvarsigma' on input line 139.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTau' on input line 138.
+(hyperref)                removing `\textTau' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 138.
+(hyperref)                removing `\textomicron' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 138.
+(hyperref)                removing `\textomicron' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textnu' on input line 138.
+(hyperref)                removing `\textnu' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texttau' on input line 138.
+(hyperref)                removing `\texttau' on input line 142.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textepsilon'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 138.
+(hyperref)                removing `\textacute' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 138.
+(hyperref)                removing `\textepsilon' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textlambda' on input line 138.
+(hyperref)                removing `\textlambda' on input line 142.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 138.
+(hyperref)                removing `\textomicron' on input line 142.
+
+[5]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textBeta' on input line 202.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textAlpha' on input line 197.
+(hyperref)                removing `\textepsilon' on input line 202.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textxi' on input line 197.
+(hyperref)                removing `\textlambda' on input line 202.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textiota' on input line 197.
+(hyperref)                removing `\texttau' on input line 202.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 197.
+(hyperref)                removing `\textiota' on input line 202.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textlambda' on input line 197.
+(hyperref)                removing `\textsigma' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textpi' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 202.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textiota'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textsigma' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texteta' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomega' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textnu' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textupsilon' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textpi' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textpi' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 202.
+
+
+Package hyperref Warning: Composite letter `\textacute+\textepsilon'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\texttau' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textrho' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomega' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textnu' on input line 202.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textAlpha' on input line 204.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textxi' on input line 204.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textiota' on input line 204.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textomicron' on input line 204.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textlambda' on input line 204.
 
 
 Package hyperref Warning: Composite letter `\textacute+\textomicron'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 197.
+(hyperref)                removing `\textacute' on input line 204.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textomicron' on input line 197.
+(hyperref)                removing `\textomicron' on input line 204.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgamma' on input line 197.
+(hyperref)                removing `\textgamma' on input line 204.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 197.
+(hyperref)                removing `\texteta' on input line 204.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textsigma' on input line 197.
+(hyperref)                removing `\textsigma' on input line 204.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\texteta' on input line 197.
+(hyperref)                removing `\texteta' on input line 204.
 
-(./report.bbl [5]) [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [6]
+
+LaTeX Warning: Command \textIota invalid in math mode on input line 212.
+
+(./report.bbl [7]) [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
 (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: ED76432D63CDD3E5508A60AD39A42AF9;308.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
+(rerunfilecheck)             Checksum: 9E6312572344B04723B8DA489B8CDA99;353.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
- 19280 strings out of 492982
- 371454 string characters out of 6134897
- 429924 words of memory out of 5000000
- 22493 multiletter control sequences out of 15000+600000
- 12505 words of font info for 34 fonts, out of 8000000 for 9000
+ 20024 strings out of 492982
+ 379705 string characters out of 6134897
+ 430668 words of memory out of 5000000
+ 23210 multiletter control sequences out of 15000+600000
+ 14414 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,14n,56p,2334b,954s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,13n,56p,2556b,954s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
-bfonts/grmn1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/g
-rmn1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1200.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1728.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn2074.pfb>
-Output written on report.pdf (7 pages, 292263 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmn12
+00.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmn1728.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1200.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/cbfonts/grxn1728.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/cbfonts/grxn2074.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on report.pdf (9 pages, 319373 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 

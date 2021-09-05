@@ -19,4 +19,8 @@ F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
   Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
   vol.~12, pp.~2825--2830, 2011.
 
+\bibitem{bishop2006pattern}
+C.~M. Bishop, ``Pattern recognition,'' {\em Machine learning}, vol.~128, no.~9,
+  2006.
+
 \end{thebibliography}
