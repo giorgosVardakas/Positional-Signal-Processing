@@ -11,45 +11,45 @@ Too many commas in name 1 of "David Burns, Nathan Leung, Michael Hardisty, Cari 
 while executing---line 969 of file ieeetr.bst
 Too many commas in name 1 of "David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Patrick Henry, Stewart McLachlin" for entry arXiv:1802.01489
 while executing---line 969 of file ieeetr.bst
-You've used 6 entries,
+You've used 10 entries,
             1876 wiz_defined-function locations,
-            514 strings with 4512 characters,
-and the built_in function-call counts, 1402 in all, are:
-= -- 120
-> -- 77
+            543 strings with 6260 characters,
+and the built_in function-call counts, 3237 in all, are:
+= -- 241
+> -- 276
 < -- 0
-+ -- 29
-- -- 23
-* -- 109
-:= -- 226
-add.period$ -- 6
-call.type$ -- 6
-change.case$ -- 6
++ -- 97
+- -- 87
+* -- 296
+:= -- 544
+add.period$ -- 11
+call.type$ -- 10
+change.case$ -- 9
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 65
-empty$ -- 130
-format.name$ -- 23
-if$ -- 322
+cite$ -- 10
+duplicate$ -- 122
+empty$ -- 235
+format.name$ -- 87
+if$ -- 709
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 5
-newline$ -- 21
-num.names$ -- 6
-pop$ -- 20
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 34
+num.names$ -- 10
+pop$ -- 30
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 35
+skip$ -- 76
 stack$ -- 0
-substring$ -- 64
-swap$ -- 21
+substring$ -- 152
+swap$ -- 47
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 12
-width$ -- 7
-write$ -- 56
+while$ -- 25
+width$ -- 12
+write$ -- 96
 (There were 3 error messages)

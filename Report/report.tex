@@ -267,6 +267,24 @@ recall = \frac{true positive}{true positive + false negative}
 \end{equation}
 όπου $precision \in [0, 1]$ και $recall \in [0, 1]$. Το $precision$ είναι διαισθητικά η ικανότητα του ταξινομητή να μην χαρακτηρίζει ως θετικό ένα αρνητικό δείγμα ενώ το $recall$ είναι διαισθητικά η ικανότητα του ταξινομητή να βρει όλα τα θετικά δείγματα. Τέλος το $F1$ \en score \gr είναι ο σταθμισμένος μέσος όρος των $precision$ και $recall$.
 
+\section{Πειραματικά αποτελέσματα}
+Στο παρόν κεφάλαιο παρουσιάζονται τα πειραματικά αποτελέσματα της μεθόδου. Για κάθε χρήστη υπάρχουν επαρκεί δεδομένα για τις δραστηριότητες (κατηγορίες), ...
+
+
+\section{Βιβλιοθήκες που χρησιμοποιήθηκαν}
+Ο κώδικας γράφηκε σε γλώσσα προγραμματιμού \en Python 3\gr  \cite{10.5555/1593511}. Ακολουθούν οι βιβλιοθήκες που χρησιμοποιήθηκαν για την υλοποίηση του προγράμματος.
+\begin{itemize}
+	\item Για τους μαθηματικούς υπολογισμούς και τον χειρισμό πινάκων χρησιμοποιήθηκε η βιβλιοθήκη \en \href{https://numpy.org/}{numpy} \gr  \cite{harris2020array}.
+	
+	\item Για τους επιστημονικούς υπολογισμούς χρησιμοποιήθηκε η βιβλιοθήκη \en \href{https://scipy.org/}{scipy} \gr \cite{2020SciPy-NMeth}.
+	
+	\item Για την επεξεργασία των δεδομένων μέσο \en dataframes \gr χρησιμοποιήθηκε η βιβλιοθήκη \en \href{https://pandas.pydata.org/}{pandas} \gr \cite{reback2020pandas}.
+	
+	\item Για τα μοντέλα μηχανικής μάθησης έγινε χρήση της βιβλιοθήκης \en \href{https://scikit-learn.org/stable/}{sklearn} \gr \cite{scikit-learn}.
+	
+	\item H βιβλιοθήκη \en \href{https://matplotlib.org/}{matplotlib} \gr \cite{Hunter:2007} χρησιμοποιήθηκε για τα γραφήματα.
+	
+\end{itemize}
 
 %\addstarredchapterc{\bibname} % minitoc
 \en
