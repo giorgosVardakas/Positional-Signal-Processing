@@ -258,6 +258,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
+INPUT Bar_chart_of_activities.png
+INPUT ./Bar_chart_of_activities.png
+INPUT ./Bar_chart_of_activities.png
 INPUT Confusion_matrix_1.png
 INPUT ./Confusion_matrix_1.png
 INPUT ./Confusion_matrix_1.png
