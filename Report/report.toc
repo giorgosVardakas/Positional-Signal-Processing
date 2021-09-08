@@ -31,6 +31,8 @@
 \babel@toc {greek}{}
 \babel@toc {english}{}
 \babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {greek}{}
 \contentsline {section}{\numberline {3}\IeC {\textAlpha }\IeC {\textupsilon }\IeC {\texttau }\IeC {\'\textomicron }\IeC {\textmu }\IeC {\textalpha }\IeC {\texttau }\IeC {\texteta } K\IeC {\textalpha }\IeC {\texttau }\IeC {\'\textalpha }\IeC {\texttau }\IeC {\textmu }\IeC {\texteta }\IeC {\textsigma }\IeC {\texteta }}{3}{section.3}
 \babel@toc {english}{}
 \babel@toc {greek}{}
